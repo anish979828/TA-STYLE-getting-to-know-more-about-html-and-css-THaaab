@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+}
+p{
+    font-size: larger;
+}
+.ashwani-container {
+    background-color: red;
+    padding: 30px;
+}
+.vishal-container{
+    background-color:chartreuse;
+}
+.image-2{
+    text-align: center;
+}
+.image-1{
+    text-align:center ;
+}
+.space{
+    margin-right:100px;
+}
